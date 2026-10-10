@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Fala aí, eu sou o Lawrence 👋</h1>
+<h1>Fala aí, eu sou o Lawrence </h1>
 
 <p><strong>Desenvolvedor em construção, curioso por tecnologia e apaixonado por tirar ideias do papel.</strong></p>
 
@@ -12,16 +12,16 @@
 
 ---
 
-## 🧠 Sobre mim
+##  Sobre mim
 
 Gosto de aprender construindo: começo com uma ideia, exploro as ferramentas e procuro transformar o resultado em algo que funcione e seja útil.
 
 Por aqui compartilho projetos, estudos e experiências com desenvolvimento de software. Tenho explorado especialmente:
 
-- 🛠️ Aplicações web e desenvolvimento full-stack
-- 🔌 APIs e integração entre serviços
-- ⚙️ Automação de tarefas
-- 🤖 Inteligência artificial aplicada a projetos
+-  Aplicações web e desenvolvimento full-stack
+-  APIs e integração entre serviços
+-  Automação de tarefas
+-  Inteligência artificial aplicada a projetos
 
 Este perfil representa minha jornada de aprendizado — sigo estudando, experimentando e melhorando projeto por projeto.
 
