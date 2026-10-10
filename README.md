@@ -1,10 +1,10 @@
 <div align="center">
 
-# Olá, eu sou Lawrence 👋
+<h1>Fala aí, eu sou o Lawrence 👋</h1>
 
-### Desenvolvedor de software | APIs, automação e soluções web
+<p><strong>Desenvolvedor em construção, curioso por tecnologia e apaixonado por tirar ideias do papel.</strong></p>
 
-Exploro tecnologias e construo projetos práticos, com interesse em desenvolvimento full-stack, integração de serviços e inteligência artificial.
+<p>Estudo e desenvolvo projetos com APIs, aplicações web, automação e inteligência artificial.</p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Lawrencevictor0-181717?style=for-the-badge&logo=github)](https://github.com/Lawrencevictor0)
 [![Repositório em destaque](https://img.shields.io/badge/Projeto-Santander-EC0000?style=for-the-badge&logo=santander)](https://github.com/Lawrencevictor0/Santander-)
@@ -13,11 +13,18 @@ Exploro tecnologias e construo projetos práticos, com interesse em desenvolvime
 
 ---
 
-## Sobre mim
+## 🧠 Sobre mim
 
-- Gosto de transformar ideias em ferramentas úteis e projetos funcionais.
-- Tenho interesse em desenvolvimento backend, interfaces web, automação e IA aplicada.
-- Este perfil reúne projetos pessoais e estudos; tecnologias e experiências são descritas conforme aparecem nos repositórios públicos.
+Gosto de aprender construindo: começo com uma ideia, exploro as ferramentas e procuro transformar o resultado em algo que funcione e seja útil.
+
+Por aqui compartilho projetos, estudos e experiências com desenvolvimento de software. Tenho explorado especialmente:
+
+- 🛠️ Aplicações web e desenvolvimento full-stack
+- 🔌 APIs e integração entre serviços
+- ⚙️ Automação de tarefas
+- 🤖 Inteligência artificial aplicada a projetos
+
+Este perfil representa minha jornada de aprendizado — sigo estudando, experimentando e melhorando projeto por projeto.
 
 ## Tecnologias e ferramentas
 
