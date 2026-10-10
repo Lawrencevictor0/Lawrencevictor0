@@ -7,7 +7,6 @@
 <p>Estudo e desenvolvo projetos com APIs, aplicações web, automação e inteligência artificial.</p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Lawrencevictor0-181717?style=for-the-badge&logo=github)](https://github.com/Lawrencevictor0)
-[![Repositório em destaque](https://img.shields.io/badge/Projeto-Santander-EC0000?style=for-the-badge&logo=santander)](https://github.com/Lawrencevictor0/Santander-)
 
 </div>
 
@@ -45,17 +44,6 @@ As tecnologias abaixo refletem os projetos atualmente visíveis no perfil e pode
 
 ### [AlphaAnalyst Terminal](https://github.com/Lawrencevictor0/alpha-analyst-terminal)
 Plataforma experimental de análise de ativos com FastAPI, streaming de respostas, busca na web e integração opcional com modelos de IA.
-
-### [Santander — Bootcamp](https://github.com/Lawrencevictor0/Santander-)
-Projeto desenvolvido durante o Bootcamp Santander. Consulte o repositório para ver detalhes e tecnologias do projeto.
-
-## Apoio ao Prêmio de Empreendedorismo Visconde de Mauá 2026
-
-<div align="center">
-
-![Prêmio de Empreendedorismo Visconde de Mauá 2026 e apoiadores](assets/premio-visconde-maua-2026.jpg)
-
-</div>
 
 ---
 
